@@ -1,6 +1,7 @@
 # 📱 buzzer_app
 
-**buzzer_app** is a task I built for a company (not Baid), focusing on OTP sign-in and registration using **Firebase**. I implemented it using **Flutter Clean Architecture**, **BLoC** state management, and **shared_preferences** for local storage.
+**buzzer_app** is a task I built for a company (not Baid), focusing on OTP sign-in and registration using **Firebase**.  
+I implemented it using **Flutter Clean Architecture**, **BLoC** state management, and **shared_preferences** for local storage — all completed within **5 days**.
 
 ---
 
