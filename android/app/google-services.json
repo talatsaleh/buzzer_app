@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "622634732382",
+    "project_id": "buzzer-app-6b0b0",
+    "storage_bucket": "buzzer-app-6b0b0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622634732382:android:6bb3b5ddf1725e953addcf",
+        "android_client_info": {
+          "package_name": "com.example.buzzer_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTh_--IwtZjkhICpQpfMRSraMffJkIJBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
